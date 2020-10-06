@@ -12,14 +12,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apollo-server-express": "^2.18.1",
+    "apollo-server-express": "^2.18.2",
     "bcrypt": "^4.0.1",
     "express": "^4.17.1",
     "faker": "^4.1.0",
-    "moment": "^2.24.0",
-    "mongoose": "^5.9.9"
+    "moment": "^2.29.1",
+    "mongoose": "^5.10.8"
   },
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.4"
   }
 }
