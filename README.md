@@ -12,3 +12,4 @@ A social media site built for educational purposes using the full breadth of the
 
 3. Seed the database with: npm run seed - Note that this should be run within the server directory
 4. Use the following command to install the required modules within the client directory: npm i apollo-boost graphql graphql-tag @apollo/react-hooks
+5. In the root directory use the following commands to install the required modules: npm install if-env - AND - npm install -D concurrently
