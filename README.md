@@ -6,6 +6,9 @@ A social media site built for educational purposes using the full breadth of the
 ## GitHub Repository 
 [GitHub](https://github.com/josephptflanagan/deep-thoughts)
 
+## Deployed Site
+[Heroku](https://stark-eyrie-59661.herokuapp.com/)
+
 ## Installation Instructions
 1. Download source code and place it in a folder.
 2. Use the following command to install the required modules within the server directory: npm i bcrypt express faker moment mongoose nodemon apollo-server-express jsonwebtoken
